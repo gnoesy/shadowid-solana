@@ -63,6 +63,12 @@ Arcium becomes the confidential execution layer for authentication.
 
 ---
 
+## Architecture
+
+![ShadowID Architecture](architecture-shadowid.png)
+
+---
+
 ## Execution Flow
 
 User biometric input  
@@ -74,6 +80,12 @@ Arcium MXE performs private matching
 Match / no-match returned  
 ↓  
 Login authorized
+
+---
+
+## UI Mock
+
+![ShadowID UI](shadowid-ui.png)
 
 ---
 
